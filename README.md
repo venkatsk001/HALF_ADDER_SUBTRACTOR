@@ -66,7 +66,7 @@ endmodule
 **Program:**
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:SACHIN M  RegisterNumber:*/212223040177
+
 ```
 module half_subtracter(a,b,D,Bo);
 input a,b;
